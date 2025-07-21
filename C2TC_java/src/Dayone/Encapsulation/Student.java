@@ -1,4 +1,4 @@
-package Day1.Encapsulation;
+package Dayone.Encapsulation;
 
 public class Student {
      private int id;

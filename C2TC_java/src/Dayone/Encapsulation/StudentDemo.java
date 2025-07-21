@@ -1,4 +1,4 @@
-package Day1.Encapsulation;
+package Dayone.Encapsulation;
 
 public class StudentDemo {
 
