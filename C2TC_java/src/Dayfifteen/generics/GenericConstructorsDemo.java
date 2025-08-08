@@ -1,6 +1,6 @@
 package Dayfifteen.generics;
 
-\public class GenericConstructorsDemo {
+public class GenericConstructorsDemo {
 
 	public static void main(String[] args) {
 		  System.out.println("Number to Double Conversion:");

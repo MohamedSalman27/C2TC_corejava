@@ -29,4 +29,4 @@ public class MinMaxImpl<T extends Comparable<T>> implements MinMax<T> {
 				o1 = values[i];
 		return o1;
 	}
-}}
+}
