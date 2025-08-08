@@ -1,6 +1,6 @@
 package Dayfive.singleinheritance;
 
-public class SingleinheritDemo {
+public class SingleInheritDemo {
 public static void main(String[] args) {
 		
 		Citizen c = new Citizen("Partha", "258741962525", "Chennai", 9159186845L);

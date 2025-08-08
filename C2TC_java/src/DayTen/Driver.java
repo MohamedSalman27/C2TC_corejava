@@ -19,8 +19,8 @@ public class Driver {
 		ArrayOperation.printArray(b);
 
 		// calling variable argument function
-		System.out.println("sum of array elements is : " + ArrayOperations.getSum(b));
-		System.out.println("sum of array elements is : " + ArrayOperations.getSum(10, 20));
+		System.out.println("sum of array elements is : " + ArrayOperation.getSum(b));
+		System.out.println("sum of array elements is : " + ArrayOperation.getSum(10, 20));
 
 		b[2] = 999; // assigning single element
 		// RTE - ArrayIndexOutOfBoundsException
@@ -29,7 +29,7 @@ public class Driver {
 
 		// Display total no. of Odd and Even Numbers in array b
 
-		System.out.println("Odd numbers : " + ArrayOperations.getOddCount(b) + "\tEven numbers : "
+		System.out.println("Odd numbers : " + ArrayOperation.getOddCount(b) + "\tEven numbers : "
 				+ ArrayOperation.getEvenCount(b));
 		System.out.println();
 		System.out.println("---------------------------------------");
