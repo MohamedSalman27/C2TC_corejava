@@ -1,6 +1,7 @@
 package Dayeighteen;
 
 
+
 public class Student implements Comparable 
 {
 	private int rollNo;
